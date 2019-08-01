@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network_security_config>
+    <base_config  cleartextTrafficPermitted="true" />
+
+    <domain_config>
+        <domain includeSubdomains="true">ks3-cn-beijing.ksyun.com</domain>>
+    </domain_config>
+
+</network_security_config>

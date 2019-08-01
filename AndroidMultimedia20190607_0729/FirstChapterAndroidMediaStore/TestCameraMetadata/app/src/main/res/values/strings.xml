@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MetaDataCamera</string>
+    <string name="takephone">拍照</string>
+    <string name="savephone">保存图片</string>
+    <string name="edittitle">编辑标题</string>
+    <string name="editdesc">图片描述</string>
+    <string name="tmp">tmp</string>
+
+
+</resources>
