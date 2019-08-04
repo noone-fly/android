@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">使用Textview显示所捕获的音频的当前振幅</string>
+</resources>
