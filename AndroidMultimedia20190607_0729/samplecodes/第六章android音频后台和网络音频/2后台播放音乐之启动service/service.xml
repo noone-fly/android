@@ -1,0 +1,9 @@
+<service android:enabled=["true" | "false"]  //是否这个service能被系统实例化，如果能则为true，否则为false。默认为true。
+   android:exported=["true" | "false"]    //是否其它应用组件能调用这个service或同它交互，能为true，默认值依赖于是否包含过滤器
+   android:icon="drawable resource"    //服务呈现的图标。
+   android:isolatedProcess=["true" | "false"]    //如果设置为true，这个服务将运行在专门的进程中
+   android:label="string resource"    //这个服务给用户显示的名称。
+   android:name="string"    //实现这个service的Service子类名称。
+   android:permission="string"    //为了启动这个service或绑定到它一个实体必须要有的权限的名称。
+   android:process="string"  //服务将要运行的进程名称。
+/>
